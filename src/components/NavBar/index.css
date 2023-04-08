@@ -1,0 +1,32 @@
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 40px;
+  padding-right: 40px;
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+}
+.logo-card {
+  display: flex;
+  align-items: center;
+  font-family: 'Roboto';
+}
+.result-card {
+  display: flex;
+  align-items: center;
+  font-family: 'Roboto';
+}
+.emoji-game-heading {
+  font-size: 25px;
+  font-weight: 500;
+  color: #ffffff;
+}
+.score {
+  color: #ffffff;
+  font-size: 500;
+}
+.top-score {
+  color: #ffffff;
+  font-size: 500;
+  margin-left: 40px;
+}
